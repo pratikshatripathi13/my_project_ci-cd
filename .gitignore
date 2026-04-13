@@ -1,4 +1,9 @@
 node_modules/
+package.json
+package-lock.json
+server1.js
+server2.js
+server
 .cache/
 .npm/
 .pm2/
